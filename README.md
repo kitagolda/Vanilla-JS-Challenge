@@ -10,6 +10,6 @@ Building 10 JS project:
 •Password Generator
 •Weather app
 
-It's just my practice. Inspiration, challenge and tutorial was taken from Florin Pop's Chanel.
+It's just my practice. Inspiration, challenge and tutorial was taken from Florin Pop's Channel.
 
 UPD. I'm definitely lost my time app during committing. But it was very easy.
